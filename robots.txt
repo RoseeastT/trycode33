@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewi138.zipcpu.com/sitemap.xml
+Sitemap : http://dewi138.qua.st/sitemap.xml
